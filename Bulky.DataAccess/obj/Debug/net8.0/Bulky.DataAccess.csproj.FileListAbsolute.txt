@@ -10,3 +10,11 @@ D:\Programming\Core\MyRepos\Bulky\Bulky.DataAccess\obj\Debug\net8.0\Bulky.DataAc
 D:\Programming\Core\MyRepos\Bulky\Bulky.DataAccess\obj\Debug\net8.0\refint\Bulky.DataAccess.dll
 D:\Programming\Core\MyRepos\Bulky\Bulky.DataAccess\obj\Debug\net8.0\Bulky.DataAccess.pdb
 D:\Programming\Core\MyRepos\Bulky\Bulky.DataAccess\obj\Debug\net8.0\ref\Bulky.DataAccess.dll
+D:\Programming\Core\MyRepos\Bulky\Bulky.DataAccess\obj\Debug\net8.0\Bulky.DataAccess.csproj.AssemblyReference.cache
+D:\Programming\Core\MyRepos\Bulky\Bulky.DataAccess\bin\Debug\net8.0\Bulky.DataAccess.runtimeconfig.json
+D:\Programming\Core\MyRepos\Bulky\Bulky.DataAccess\bin\Debug\net8.0\Bulky.Models.dll
+D:\Programming\Core\MyRepos\Bulky\Bulky.DataAccess\bin\Debug\net8.0\Bulky.Utility.dll
+D:\Programming\Core\MyRepos\Bulky\Bulky.DataAccess\bin\Debug\net8.0\Bulky.Models.pdb
+D:\Programming\Core\MyRepos\Bulky\Bulky.DataAccess\bin\Debug\net8.0\Bulky.Utility.pdb
+D:\Programming\Core\MyRepos\Bulky\Bulky.DataAccess\obj\Debug\net8.0\Bulky.Da.6DBD1FC4.Up2Date
+D:\Programming\Core\MyRepos\Bulky\Bulky.DataAccess\obj\Debug\net8.0\Bulky.DataAccess.genruntimeconfig.cache

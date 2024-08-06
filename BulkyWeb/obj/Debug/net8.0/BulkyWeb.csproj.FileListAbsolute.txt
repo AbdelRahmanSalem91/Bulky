@@ -251,3 +251,9 @@ D:\Programming\Core\MyRepos\Bulky\BulkyWeb\bin\Debug\net8.0\runtimes\win\lib\net
 D:\Programming\Core\MyRepos\Bulky\BulkyWeb\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
 D:\Programming\Core\MyRepos\Bulky\BulkyWeb\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
 D:\Programming\Core\MyRepos\Bulky\BulkyWeb\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+D:\Programming\Core\MyRepos\Bulky\BulkyWeb\bin\Debug\net8.0\Bulky.DataAccess.dll
+D:\Programming\Core\MyRepos\Bulky\BulkyWeb\bin\Debug\net8.0\Bulky.Models.dll
+D:\Programming\Core\MyRepos\Bulky\BulkyWeb\bin\Debug\net8.0\Bulky.Utility.dll
+D:\Programming\Core\MyRepos\Bulky\BulkyWeb\bin\Debug\net8.0\Bulky.DataAccess.pdb
+D:\Programming\Core\MyRepos\Bulky\BulkyWeb\bin\Debug\net8.0\Bulky.Models.pdb
+D:\Programming\Core\MyRepos\Bulky\BulkyWeb\bin\Debug\net8.0\Bulky.Utility.pdb
