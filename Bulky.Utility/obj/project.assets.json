@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Programming\\Core\\MyRepos\\Bulky\\Bulky.Utility\\Bulky.Utility.csproj",
-      "projectName": "Bulky.Utility",
-      "projectPath": "D:\\Programming\\Core\\MyRepos\\Bulky\\Bulky.Utility\\Bulky.Utility.csproj",
+      "projectUniqueName": "D:\\Programming\\Core\\MyRepos\\Bulky\\Bulky.Utility\\BulkyBook.Utility.csproj",
+      "projectName": "BulkyBook.Utility",
+      "projectPath": "D:\\Programming\\Core\\MyRepos\\Bulky\\Bulky.Utility\\BulkyBook.Utility.csproj",
       "packagesPath": "C:\\Users\\Abdelrahman\\.nuget\\packages\\",
       "outputPath": "D:\\Programming\\Core\\MyRepos\\Bulky\\Bulky.Utility\\obj\\",
       "projectStyle": "PackageReference",
