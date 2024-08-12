@@ -8,12 +8,12 @@ namespace BulkyBook.DataAccess.Repository
 {
 	public class Repository<T> : IRepository<T> where T : class
 	{
-		private ApplicationDbContext _db;
+		private readonly ApplicationDbContext _db;
 		internal DbSet<T> dbSet;
 		public Repository(ApplicationDbContext db)
 		{
 			_db = db;
-			dbSet = _db.Set<T>();
+			this.dbSet = _db.Set<T>();
 		}
 		public void Add(T entity)
 		{

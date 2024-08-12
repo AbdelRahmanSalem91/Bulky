@@ -8,17 +8,19 @@ namespace BulkyBook.DataAccess.Repository
 	public class UnitOfWork : IUnitOfWork
 	{
 		public ICategoryRepository Category {  get; private set; }
+		public IProductRepository Product {  get; private set; }
 
-		private ApplicationDbContext _categoryRepo;
+		private ApplicationDbContext _db;
 		public UnitOfWork(ApplicationDbContext db)
 		{
-			_categoryRepo = db;
-			Category = new CategoryRepository(_categoryRepo);
+			_db = db;
+			Category = new CategoryRepository(_db);
+			Product = new ProductRepository(_db);
 		}
 
 		public void Save()
 		{
-			_categoryRepo.SaveChanges();
+			_db.SaveChanges();
 		}
 	}
 }
