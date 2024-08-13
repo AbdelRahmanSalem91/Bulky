@@ -13,6 +13,30 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "D:\\Programming\\Core\\MyRepos\\Bulky\\BulkyWeb\\wwwroot\\images\\product\\4fead3d0-989d-4d0f-8a05-07d67963da26.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\4fead3d0-989d-4d0f-8a05-07d67963da26.jpg"
+    },
+    {
+      "Id": "D:\\Programming\\Core\\MyRepos\\Bulky\\BulkyWeb\\wwwroot\\images\\product\\690fe445-be6e-4d6f-9b27-90744f4bbe66.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\690fe445-be6e-4d6f-9b27-90744f4bbe66.jpg"
+    },
+    {
+      "Id": "D:\\Programming\\Core\\MyRepos\\Bulky\\BulkyWeb\\wwwroot\\images\\product\\9c6224e5-a4ab-4958-acf4-531cd66ff361.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\9c6224e5-a4ab-4958-acf4-531cd66ff361.jpg"
+    },
+    {
+      "Id": "D:\\Programming\\Core\\MyRepos\\Bulky\\BulkyWeb\\wwwroot\\images\\product\\aeeff04d-dad5-4666-a2f4-ce7f848c0e85.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\aeeff04d-dad5-4666-a2f4-ce7f848c0e85.jpg"
+    },
+    {
+      "Id": "D:\\Programming\\Core\\MyRepos\\Bulky\\BulkyWeb\\wwwroot\\images\\product\\da254ba7-d3df-4a8b-afb1-c4cf8e9872af.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\da254ba7-d3df-4a8b-afb1-c4cf8e9872af.jpg"
+    },
+    {
+      "Id": "D:\\Programming\\Core\\MyRepos\\Bulky\\BulkyWeb\\wwwroot\\images\\product\\f3370cc2-9200-4707-a997-8f7dce3826a7.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\f3370cc2-9200-4707-a997-8f7dce3826a7.jpg"
+    },
+    {
       "Id": "D:\\Programming\\Core\\MyRepos\\Bulky\\BulkyWeb\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
