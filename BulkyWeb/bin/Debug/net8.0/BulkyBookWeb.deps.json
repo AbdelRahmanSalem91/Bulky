@@ -15,7 +15,8 @@
           "Microsoft.EntityFrameworkCore.SqlServer": "8.0.8",
           "Microsoft.EntityFrameworkCore.Sqlite": "8.0.8",
           "Microsoft.EntityFrameworkCore.Tools": "8.0.8",
-          "Microsoft.VisualStudio.Web.CodeGeneration.Design": "8.0.4"
+          "Microsoft.VisualStudio.Web.CodeGeneration.Design": "8.0.4",
+          "Stripe.net": "45.10.0"
         },
         "runtime": {
           "BulkyBookWeb.dll": {}
@@ -2196,6 +2197,18 @@
           }
         }
       },
+      "Stripe.net/45.10.0": {
+        "dependencies": {
+          "Newtonsoft.Json": "13.0.3",
+          "System.Configuration.ConfigurationManager": "7.0.0"
+        },
+        "runtime": {
+          "lib/net6.0/Stripe.net.dll": {
+            "assemblyVersion": "45.10.0.0",
+            "fileVersion": "45.10.0.0"
+          }
+        }
+      },
       "System.AppContext/4.3.0": {
         "dependencies": {
           "System.Runtime": "4.3.0"
@@ -2990,7 +3003,10 @@
           "Microsoft.EntityFrameworkCore.SqlServer": "8.0.8"
         },
         "runtime": {
-          "BulkyBook.DataAccess.dll": {}
+          "BulkyBook.DataAccess.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "BulkyBook.Models/1.0.0": {
@@ -2999,7 +3015,10 @@
           "Microsoft.Extensions.Identity.Stores": "8.0.8"
         },
         "runtime": {
-          "BulkyBook.Models.dll": {}
+          "BulkyBook.Models.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "BulkyBook.Utility/1.0.0": {
@@ -3007,7 +3026,10 @@
           "Microsoft.AspNetCore.Identity.UI": "8.0.8"
         },
         "runtime": {
-          "BulkyBook.Utility.dll": {}
+          "BulkyBook.Utility.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }
@@ -4319,6 +4341,13 @@
       "sha512": "sha512-PQ2Oq3yepLY4P7ll145P3xtx2bX8xF4PzaKPRpw9jZlKvfe4LE/saAV82inND9usn1XRpmxXk7Lal3MTI+6CNg==",
       "path": "sqlitepclraw.provider.e_sqlite3/2.1.6",
       "hashPath": "sqlitepclraw.provider.e_sqlite3.2.1.6.nupkg.sha512"
+    },
+    "Stripe.net/45.10.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-RN549YW4Cknla28/Q680QBPfkX2W2HoNPlMLbaAtX36r9kJZxgSkIS9cIwI+DFPR8T3FSE/JTTCAv5oHcuQe6w==",
+      "path": "stripe.net/45.10.0",
+      "hashPath": "stripe.net.45.10.0.nupkg.sha512"
     },
     "System.AppContext/4.3.0": {
       "type": "package",
