@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "rlxcy4h3XcPsusB5509Zhvg4/Op/Ah7zY/xOoWyMOrk=",
+  "Hash": "1WDMrU4b3uPOIkBcv7MH+YWLxQeL9hNk9Ngv6Ewg86w=",
   "Source": "BulkyBookWeb",
   "BasePath": "_content/BulkyBookWeb",
   "Mode": "Default",
@@ -1309,6 +1309,25 @@
       "OriginalItemSpec": "wwwroot\\images\\product\\690fe445-be6e-4d6f-9b27-90744f4bbe66.jpg"
     },
     {
+      "Identity": "D:\\Programming\\Core\\MyRepos\\Bulky\\BulkyWeb\\wwwroot\\images\\product\\9ad64bae-e9f4-4858-a17f-e29e01059393.jpg",
+      "SourceId": "BulkyBookWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Programming\\Core\\MyRepos\\Bulky\\BulkyWeb\\wwwroot\\",
+      "BasePath": "_content/BulkyBookWeb",
+      "RelativePath": "images/product/9ad64bae-e9f4-4858-a17f-e29e01059393.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\product\\9ad64bae-e9f4-4858-a17f-e29e01059393.jpg"
+    },
+    {
       "Identity": "D:\\Programming\\Core\\MyRepos\\Bulky\\BulkyWeb\\wwwroot\\images\\product\\9c6224e5-a4ab-4958-acf4-531cd66ff361.jpg",
       "SourceId": "BulkyBookWeb",
       "SourceType": "Discovered",
@@ -1326,25 +1345,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\product\\9c6224e5-a4ab-4958-acf4-531cd66ff361.jpg"
-    },
-    {
-      "Identity": "D:\\Programming\\Core\\MyRepos\\Bulky\\BulkyWeb\\wwwroot\\images\\product\\aeeff04d-dad5-4666-a2f4-ce7f848c0e85.jpg",
-      "SourceId": "BulkyBookWeb",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Programming\\Core\\MyRepos\\Bulky\\BulkyWeb\\wwwroot\\",
-      "BasePath": "_content/BulkyBookWeb",
-      "RelativePath": "images/product/aeeff04d-dad5-4666-a2f4-ce7f848c0e85.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\product\\aeeff04d-dad5-4666-a2f4-ce7f848c0e85.jpg"
     },
     {
       "Identity": "D:\\Programming\\Core\\MyRepos\\Bulky\\BulkyWeb\\wwwroot\\images\\product\\da254ba7-d3df-4a8b-afb1-c4cf8e9872af.jpg",
