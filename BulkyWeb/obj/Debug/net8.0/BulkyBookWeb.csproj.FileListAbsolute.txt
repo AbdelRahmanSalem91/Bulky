@@ -294,3 +294,4 @@ D:\Programming\Core\MyRepos\Bulky\BulkyWeb\obj\Debug\net8.0\refint\BulkyBookWeb.
 D:\Programming\Core\MyRepos\Bulky\BulkyWeb\obj\Debug\net8.0\BulkyBookWeb.pdb
 D:\Programming\Core\MyRepos\Bulky\BulkyWeb\obj\Debug\net8.0\BulkyBookWeb.genruntimeconfig.cache
 D:\Programming\Core\MyRepos\Bulky\BulkyWeb\obj\Debug\net8.0\ref\BulkyBookWeb.dll
+D:\Programming\Core\MyRepos\Bulky\BulkyWeb\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.Facebook.dll
